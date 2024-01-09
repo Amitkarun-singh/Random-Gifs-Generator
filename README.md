@@ -1,4 +1,4 @@
-# Random Gift Generator
+# Random Gif Generator
 
 Welcome to the Random Gift Generator repository! This project is designed to help you randomly select gifts for your friends, family, or colleagues.
 
